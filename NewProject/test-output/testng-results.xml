@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57019" started-at="2018-04-27T22:02:57Z" finished-at="2018-04-27T22:03:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57019" started-at="2018-04-27T22:02:57Z" finished-at="2018-04-27T22:03:54Z">
+      <class name="testng.test1">
+        <test-method status="PASS" signature="dologin()[pri:0, instance:testng.test1@d2cc05a]" name="dologin" duration-ms="16083" started-at="2018-04-27T22:02:57Z" finished-at="2018-04-27T22:03:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method status="PASS" signature="radio_button()[pri:0, instance:testng.test1@d2cc05a]" name="radio_button" duration-ms="40903" started-at="2018-04-27T22:03:13Z" finished-at="2018-04-27T22:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radio_button -->
+      </class> <!-- testng.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
